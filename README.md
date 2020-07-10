@@ -8,8 +8,12 @@ API NodeJS criação de um crud de produtos.
 3 - npm install --save-dev nodemon
 4 - npm install mongoose
 5 - npm install require-dir
+6 - npm install mongoose-paginate
+7 - npm install cors
 
 
 # Start do projeto
 
-npm run dev
+1 - npm run dev
+2 - localhost:3001
+3 - :)

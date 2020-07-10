@@ -1,0 +1,29 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "API NodeJS criação de um crud de produtos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santunis/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santunis/NodeJS/issues"
+  },
+  "homepage": "https://github.com/santunis/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.22",
+    "require-dir": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
